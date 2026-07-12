@@ -11,3 +11,8 @@ with col2:
     Hi, I'm Nabil. I'm a student of Department of Software Engineer at Daffodil International University.
     """
     st.info(content)
+
+content2 = """
+Below you can find some of the apps I have built. Feel free to contact me!
+"""
+st.write(content2)
